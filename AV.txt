@@ -1,2 +1,3 @@
-Microsoft Defender Antivirus Service
+AVNAMES,
+Microsoft Defender Antivirus Service,
 CrowdStrike Falcon Sensor Service

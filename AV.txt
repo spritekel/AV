@@ -1,0 +1,2 @@
+Microsoft Defender Antivirus Service
+CrowdStrike Falcon Sensor Service

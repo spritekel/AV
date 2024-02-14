@@ -1,3 +1,8 @@
-AVNAMES,
-Microsoft Defender Antivirus Service,
-CrowdStrike Falcon Sensor Service
+[
+  {
+    "AVName": "Microsoft Defender Antivirus Service"
+  },
+  {
+    "AVName": "CrowdStrike Falcon Sensor Service"
+  }
+]
